@@ -1,6 +1,6 @@
 # 🧩 SQL Joins Simplified (Part - 1)
 
-[Click here]() to access Day 1 LinkedIn Post.
+[Click here](https://www.linkedin.com/posts/pravesh-agarwal27_%F0%9D%90%96%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%AD%F0%9D%90%A8-%F0%9D%90%80%F0%9D%90%9C%F0%9D%90%9E-%F0%9D%90%92%F0%9D%90%90%F0%9D%90%8B-%F0%9D%90%88%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB-activity-7259502092472475648-ObbJ?utm_source=share&utm_medium=member_desktop) to access Day 1 LinkedIn Post.
 
 ## 👉 Today’s Topics 
 
