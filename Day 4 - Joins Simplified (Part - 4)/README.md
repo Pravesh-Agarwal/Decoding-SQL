@@ -1,6 +1,6 @@
 # 🧩 SQL Joins Simplified (Part - 4)
 
-[Click here]() to access Day 4 LinkedIn Post.
+[Click here](https://www.linkedin.com/posts/pravesh-agarwal27_sqljoins-fulljoin-dataanalysis-activity-7263042669780590592-b3ZZ?utm_source=share&utm_medium=member_desktop) to access Day 4 LinkedIn Post.
 
 ## 👉 Today’s Topic 
 
